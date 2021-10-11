@@ -52,3 +52,15 @@ mvn -version
 java --version
 sudo alternatives --config java
 sudo alternatives --config javac
+git init
+ls
+git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git add --all
+git commit -m "Primer commit"
+git push
+git init
+ls
+git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git add --all
+git commit -m "Primer commit"
+git commit --amend --reset-author
