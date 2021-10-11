@@ -64,3 +64,13 @@ git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
 git add --all
 git commit -m "Primer commit"
 git commit --amend --reset-author
+ls
+git add --all
+git commit -m "Primer commit"
+git config --global user.name "Kelly Solano"
+git config --global user.email kelly.solano.mt@correo.usa.edu.co
+git push
+git commit -m "Primer commit"
+ls
+git add --all
+git commit -m "Primer commit"
