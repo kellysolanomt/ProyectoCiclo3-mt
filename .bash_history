@@ -83,3 +83,31 @@ git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
 git add --all
 git commit -m"Primer commit"
 git push
+git init
+git add --all
+git commit -m"Primer commit"
+git push
+git push -u master
+git push -u origin master
+git init
+ls
+git add --all
+git commit -m"Primer commit"
+git push -u origin master
+git remote -v
+git remote set-url origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git remote -v
+git push -u origin master
+git init
+ls
+git add --all
+git commit -m"Primer commit"
+git push -u origin master
+git init
+ls
+git remote and origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git add --all
+git commit -m"Primer commit"
+git push
+git push -u origin master
