@@ -74,3 +74,12 @@ git commit -m "Primer commit"
 ls
 git add --all
 git commit -m "Primer commit"
+ls
+git clone https://github.com/kellysolanomt/ProyectoCiclo3.git
+ls
+git init
+ls
+git remote add origin https://github.com/kellysolanomt/ProyectoCiclo3.git
+git add --all
+git commit -m"Primer commit"
+git push
